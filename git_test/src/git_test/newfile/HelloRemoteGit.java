@@ -4,7 +4,8 @@ public class HelloRemoteGit {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello, RemoteGit!!");
+		//把下面改成Hello, world!!
+		System.out.println("Hello, world!!");
 	}
 
 }
