@@ -4,7 +4,8 @@ public class HelloRemoteGit {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello, RemoteGit!!");//加入註解，本行應會衝突
+		//合併方式：改成Hello, world!!
+		System.out.println("Hello, world!!");
 		System.out.println("something not conflict...");
 	}
 
